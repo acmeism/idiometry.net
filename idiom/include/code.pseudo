@@ -1,0 +1,3 @@
+# Include the Foo:Bar library from disk:
+
+include 'Foo:Bar'

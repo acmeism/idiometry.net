@@ -1,0 +1,34 @@
+/// bash/code/.
+source foo:bar
+
+/// coffeescript/code.
+require 'foo/bar'
+
+/// go/code.
+import "foo/bar"
+
+/// perl/code.
+use Foo::Bar;
+
+/// perl6/code.
+use Foo::Bar;
+
+/// php/code.
+…
+
+/// python/code.
+import foo.bar
+
+/// python3/code.
+import foo.bar
+
+/// ruby/code.
+require foo/bar
+
+/// scala/code.
+…
+
+/// tcl/code.
+…
+
+
